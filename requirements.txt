@@ -1,0 +1,8 @@
+sounddevice
+soundfile
+torch
+telebot
+requests
+pandas
+openpyxl
+omegaconf
